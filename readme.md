@@ -32,3 +32,5 @@ Implementação
 
 * Interface de montagem e construção. Os Builders constroem os seus produtos de
   uma forma gradual.
+
+![Class Diagram Builder](https://github.com/IgorDePaula/builder/blob/master/docs/Class%20Diagram%20Builder.png)
